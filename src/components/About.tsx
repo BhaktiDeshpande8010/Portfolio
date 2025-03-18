@@ -25,7 +25,7 @@ const About = () => {
           <div className="flex justify-center items-center">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20">
               <img 
-                src="https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?auto=format&fit=crop&q=80" 
+                src="/profile.jpeg" 
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />

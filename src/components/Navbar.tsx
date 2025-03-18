@@ -41,7 +41,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <span className="text-xl font-bold">
-              <span className="text-primary">Dev</span>Folio
+              <span className="text-primary">Bhakti</span> Deshpande
             </span>
           </div>
           

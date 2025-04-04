@@ -17,7 +17,7 @@ const Experience = () => {
       title: "Frontend Developer",
       company: "PRYM Aerospace",
       duration: "Jan 2024 - Present",
-      location: "Aurangabad, India",
+      location: "Jalna, MH, India",
       description: [
         "Developing and maintaining the Crop Pilot dashboard using Python Flask, HTML, CSS, and Bootstrap",
         "Enhancing UI/UX to improve accessibility and usability for agronomists",
@@ -29,7 +29,7 @@ const Experience = () => {
       title: "Frontend Developer Intern",
       company: "PRYM Aerospace",
       duration: "Oct 2023 - Dec 2023",
-      location: "Aurangabad, India",
+      location: "Jalna, MH, India",
       description: [
         "Worked on an AI/ML-based crop advisory web application",
         "Developed frontend components to visualize satellite-based insights for agriculture",

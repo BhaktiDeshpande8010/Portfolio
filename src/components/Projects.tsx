@@ -20,8 +20,8 @@ const Projects = () => {
       description: "A food delivery platform integrating cultural food stories and blogs, enhancing the user experience beyond just ordering.",
       image: "del.png",
       tags: ["MERN Stack (Learning)", "React", "Node.js", "MongoDB", "Tailwind CSS"],
-      githubUrl: "https://github.com", // Update with your actual repo
-      liveUrl: "https://example.com" // Update if deployed
+      githubUrl: "https://github.com/BhaktiDeshpande8010/Food-Delivery-Web", // Update with your actual repo
+      liveUrl: "https://cuisine-del.onrender.com/" // Update if deployed
     },
     {
       title: "Book Website Landing Page",

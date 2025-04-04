@@ -29,9 +29,7 @@ const Footer = () => {
             </a>
           </div>
           
-          <p className="text-sm text-accent-foreground/80 mb-2">
-            Designed & Built by Alex Johnson
-          </p>
+          
           <p className="text-xs text-accent-foreground/60">
             © {new Date().getFullYear()} All rights reserved
           </p>

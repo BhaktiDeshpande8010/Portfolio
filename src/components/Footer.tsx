@@ -15,15 +15,15 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center">
           <div className="flex space-x-6 mb-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+            <a href="https://github.com/BhaktiDeshpande8010" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
               <Github size={20} />
               <span className="sr-only">GitHub</span>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+            <a href="https://in.linkedin.com/in/bhakti-deshpande-1735b1352" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
               <Linkedin size={20} />
               <span className="sr-only">LinkedIn</span>
             </a>
-            <a href="mailto:contact@example.com" className="hover:text-primary transition-colors">
+            <a href="mailto:deshpandeb1204@gmail.com" className="hover:text-primary transition-colors">
               <Mail size={20} />
               <span className="sr-only">Email</span>
             </a>

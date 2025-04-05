@@ -21,15 +21,15 @@ const Hero = () => {
           </p>
           
           <div className="flex space-x-5 mb-10 opacity-0 animate-fade-in" style={{ animationDelay: '0.9s', animationFillMode: 'forwards' }}>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+            <a href="https://github.com/BhaktiDeshpande8010" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
               <Github size={24} />
               <span className="sr-only">GitHub</span>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+            <a href="https://in.linkedin.com/in/bhakti-deshpande-1735b1352" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
               <Linkedin size={24} />
               <span className="sr-only">LinkedIn</span>
             </a>
-            <a href="mailto:contact@example.com" className="hover:text-primary transition-colors">
+            <a href="mailto:deshpandeb1204@gmail.com" className="hover:text-primary transition-colors">
               <Mail size={24} />
               <span className="sr-only">Email</span>
             </a>

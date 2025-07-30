@@ -19,11 +19,11 @@ const Experience = () => {
       duration: "Jan 2024 - Present",
       location: "Jalna, MH, India",
       description: [
-        "Developing and maintaining the Crop Pilot dashboard using Python Flask, HTML, CSS, and Bootstrap",
-        "Enhancing UI/UX to improve accessibility and usability for agronomists",
+        "Worked on a company crop advisory web platform focused on agronomists and field experts",
+        "Built responsive UI components using React and Tailwind CSS to enhance user experience",
         "Collaborating with the team to integrate satellite data for crop management solutions",
       ],
-      skills: ["HTML", "CSS", "JavaScript", "Bootstrap", "Python Flask"]
+      skills: ["React", "Tailwind CSS", "Node.js", "REST API", "Git"]
     },
     {
       title: "Software Intern",

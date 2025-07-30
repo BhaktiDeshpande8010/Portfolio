@@ -26,7 +26,7 @@ const Experience = () => {
       skills: ["HTML", "CSS", "JavaScript", "Bootstrap", "Python Flask"]
     },
     {
-      title: "Frontend Developer Intern",
+      title: "Software Intern",
       company: "PRYM Aerospace",
       duration: "Oct 2023 - Dec 2023",
       location: "Jalna, MH, India",

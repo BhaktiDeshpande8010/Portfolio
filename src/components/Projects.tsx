@@ -26,7 +26,7 @@ const Projects = () => {
     {
       title: "Heritage Stay – Explore India's Historic Homes",
       description:"A frontend platform to explore India's heritage sites with property info, entry fees, and interactive maps. Built using Tailwind CSS and inspired by UX Pilot AI UI.",
-      image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80",
+      image: "heritage.png",
       tags: ["React", "Tailwind CSS", "Leaflet", "UX Pilot AI"],
       githubUrl: "https://github.com/BhaktiDeshpande8010/heritage-web",
       liveUrl: "https://heritagestay.netlify.app/"

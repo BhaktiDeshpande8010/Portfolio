@@ -28,7 +28,7 @@ const Experience = () => {
     {
       title: "Software Intern",
       company: "PRYM Aerospace",
-      duration: "Oct 2023 - Dec 2023",
+      duration: "Oct 2024 – Jan 2025",
       location: "Jalna, MH, India",
       description: [
         "Worked on an AI/ML-based crop advisory web application",
@@ -45,7 +45,7 @@ const Experience = () => {
       <div className="section-container">
         <h2 className="section-title opacity-0 animate-fade-in" style={{ animationDelay: '0.1s', animationFillMode: 'forwards' }}>Experience</h2>
         <p className="mt-6 mb-10 max-w-2xl opacity-0 animate-fade-in" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
-          My professional journey as a developer over the years, including roles, responsibilities, and achievements.
+          My professional journey as a developer over the time, including roles, responsibilities, and achievements.
         </p>
         
         <div className="space-y-12">

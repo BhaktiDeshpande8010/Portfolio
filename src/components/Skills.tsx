@@ -12,7 +12,7 @@ const Skills = () => {
   const skills: Skill[] = [
     { name: 'JavaScript', level: 90, category: 'frontend' },
     { name: 'React', level: 85, category: 'frontend' },
-    { name: 'TypeScript', level: 80, category: 'frontend' },
+    { name: 'Figma', level: 80, category: 'frontend' },
     { name: 'HTML/CSS', level: 95, category: 'frontend' },
     { name: 'Next.js', level: 80, category: 'frontend' },
     { name: 'Node.js', level: 85, category: 'backend' },
@@ -21,11 +21,12 @@ const Skills = () => {
     { name: 'PostgreSQL', level: 70, category: 'backend' },
     { name: 'GraphQL', level: 65, category: 'backend' },
     { name: 'Git', level: 85, category: 'other' },
-    { name: 'Docker', level: 70, category: 'other' },
+    // { name: 'Docker', level: 70, category: 'other' },
+    { name: 'Github', level: 70, category: 'other' },
   ];
 
   const frontendSkills = skills.filter(skill => skill.category === 'frontend');
-  const backendSkills = skills.filter(skill => skill.category === 'backend');
+  // const backendSkills = skills.filter(skill => skill.category === 'backend');
   const otherSkills = skills.filter(skill => skill.category === 'other');
 
   const SkillCategory = ({ title, skills }: { title: string, skills: Skill[] }) => (

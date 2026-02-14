@@ -26,7 +26,7 @@ const Skills = () => {
   ];
 
   const frontendSkills = skills.filter(skill => skill.category === 'frontend');
-  // const backendSkills = skills.filter(skill => skill.category === 'backend');
+  const backendSkills = skills.filter(skill => skill.category === 'backend');
   const otherSkills = skills.filter(skill => skill.category === 'other');
 
   const SkillCategory = ({ title, skills }: { title: string, skills: Skill[] }) => (

@@ -16,7 +16,7 @@ const Experience = () => {
     {
       title: "Frontend Developer",
       company: "PRYM Aerospace",
-      duration: "Jan 2024 - Present",
+      duration: "Jan 2025 - Nov 2025",
       location: "Jalna, MH, India",
       description: [
         "Worked on a company crop advisory web platform focused on agronomists and field experts",
